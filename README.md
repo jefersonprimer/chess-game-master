@@ -1,9 +1,36 @@
-# ChessGame
+# Chess Game
 
-The chess application consists of two modes: playing against a friend in the same browser and playing against the computer, which utilizes the Stockfish REST API from https://stockfish.online/
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-Images for pieces used from Lichess official repo: https://github.com/lichess-org
+## Get started
 
-Live version: https://awsomecstutorials.github.io/chess-game/
+1. Install dependencies
 
-Tutorial can be found on FreeCodeCamp youtube channel: https://youtu.be/fJIsqZmQVZQ
+   ```bash
+   git clone https://github.com/jefersonprimer/chess_game.git
+   ```
+
+1. Go to the project Folder
+
+   ```bash
+   cd chess_game
+   ```
+
+2. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+3. Install the Angular CLI to run Angular commands, as ng serve"
+
+   ```bash
+    npm install -g @angular/cli
+   ```
+
+
+3. Start the app
+
+   ```bash
+    ng serve
+   ```
