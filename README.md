@@ -5,7 +5,7 @@
 
 ## Get started
 
-1. Install dependencies
+1. Clone Repository
 
    ```bash
    git clone https://github.com/jefersonprimer/chess_game.git
